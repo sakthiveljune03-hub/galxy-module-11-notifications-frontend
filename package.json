@@ -7,7 +7,7 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "dev": "vite --port 3000",
+    "dev": "vite --port 3050",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest run --environment jsdom"
